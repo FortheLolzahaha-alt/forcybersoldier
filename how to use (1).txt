@@ -1,0 +1,1 @@
+1) get python: https://www.python.org/ftp/python/3.14.6/python-3.14.6-amd64.exe

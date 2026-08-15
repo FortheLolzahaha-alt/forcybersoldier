@@ -1,0 +1,3 @@
+py -m pip install opencv-python
+double click on game.py
+Sub to https://www.youtube.com/@Captain_Trick
